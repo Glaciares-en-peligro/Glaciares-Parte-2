@@ -18,7 +18,8 @@
 ---
 ## Prototipo 01 
 (09|11|2020) Infografías 
-![Prototipo1.jpg]() 
+
+![Prototipo1.jpg](https://github.com/Glaciares-en-peligro/Glaciares-Parte-2/blob/main/Prototipo1.jpg?raw=true) 
 
 ---
 
