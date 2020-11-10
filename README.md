@@ -18,8 +18,7 @@
 ---
 ## Prototipo 01 
 (09|11|2020) Infografías 
-
-
+![Prototipo1.jpg]() 
 
 ---
 
