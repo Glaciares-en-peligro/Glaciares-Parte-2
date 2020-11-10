@@ -22,12 +22,13 @@
 ![Prototipo1.jpg](https://github.com/Glaciares-en-peligro/Glaciares-Parte-2/blob/main/Prototipo1.jpg?raw=true) 
 
 ---
-
+## Información para infografía
 ### ¿Qué espacio se ha dado en materia legal para que esto* para que siga ocurriendo en Chile y sus territorios? 
-1. ¿Qué son los glaciares?
+1. __¿Qué son los glaciares?__
 
 Son grandes masas de hielo comprimido que se forman a través de miles de años con la acumulación de nieve en un mismo lugar. Se trata de algunos de los objetos más grandes del mundo que, al mismo tiempo, se mueven y transforman con el pasar del tiempo, las estaciones y los ciclos del agua. 
 https://freeman.la/los-glaciares-que-son-como-se-forman-y-cual-es-su-relevancia/ 
 
+2. __Deterioro de Glaciares, como se han ido destruyendo__ 
 
 
